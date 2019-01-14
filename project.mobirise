@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Avtoplastic",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -36,7 +36,9 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 15,
-    "versionPublish": "4.8.10"
+    "versionPublish": "4.8.10",
+    "favicon": "@PROJECT_PATH@/assets/images/brave-512x512-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
