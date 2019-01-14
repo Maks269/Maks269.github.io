@@ -44,14 +44,18 @@
     "uniqCompNum": 15,
     "versionPublish": "4.8.10",
     "favicon": "",
-    "noImageResize": "true"
+    "noImageResize": "true",
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Авто пластик",
-        "meta_descr": "",
+        "title": "Авто пластик - Ремонт бампера, мото и авто пластика Тамбов.",
+        "meta_descr": "Производим ремонт и восстановление авто и мото пластика любой сложности в Тамбове.  Ремонт и восстановление авто и бампера Тамбов. Ремон авто и мото оптики Тамбов.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
