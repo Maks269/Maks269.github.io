@@ -43,7 +43,7 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 15,
     "versionPublish": "4.8.10",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/3de909a614564d61b584486c5cd97a17-1.png",
     "noImageResize": "true",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
